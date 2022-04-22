@@ -8,7 +8,7 @@ and numpy and scipy modules are required.
 
 Please run FebRNA as follows:
 
-'''
+```
 # Compilation and usage under linux
 gcc cgRNASP-Feb.c -lm -o cgRNASP-Feb
 gcc reconstruction.c -lm -o reconstruction 
@@ -16,7 +16,7 @@ gcc reconstruction.c -lm -o reconstruction
 # Run in the excample dir 
 python ./FebRNA.py (or python3 ./FebRNA.py)
 (in the file directory depending on the installed Python version) .
-'''
+```
 
 # According to corresponding instructions from FebRNA, please input :
 (a) sequence information, 
