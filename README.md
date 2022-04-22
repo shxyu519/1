@@ -40,7 +40,7 @@ All-atom rebuilding?(y/n):y
 Finish in folder ./RESULT
 Running time :37.020s
 
-4. Further refinement is required for the rebuilt all-atom structures.
+## Further refinement is required for the rebuilt all-atom structures.
 To remove possible steric clashes and chain breaks of the rebuilt all-atom structures,  a structure 
 refinement  can be performed for the rebuilt all-atom structures by FebRNA through the method 
 of QRNAS (https://github.com/sunandan-mukherjee/QRNAS.git) [2].
