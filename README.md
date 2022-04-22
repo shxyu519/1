@@ -31,7 +31,7 @@ python ./FebRNA.py (or python3 ./FebRNA.py)
 - (d) './RESULT/AA_Result' contains the rebuilt all-atom structures of selected coarse-grained structures.
 
 An example is:
-
+```
 python FebRNA.py 
 Sequence:GCGGCACCGUCCGCUCAAACAAACGG
 Secondary Structure:((((..[[[.)))).........]]]
@@ -39,6 +39,7 @@ Seleted Num(0=all):5
 All-atom rebuilding?(y/n):y
 Finish in folder ./RESULT
 Running time :37.020s
+```
 
 ## Further refinement is required for the rebuilt all-atom structures.
 To remove possible steric clashes and chain breaks of the rebuilt all-atom structures,  a structure 
