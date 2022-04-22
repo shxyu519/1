@@ -18,17 +18,17 @@ python ./FebRNA.py (or python3 ./FebRNA.py)
 (in the file directory depending on the installed Python version) .
 ```
 
-### According to corresponding instructions from FebRNA, please input :
-(a) sequence information, 
-(b) secondary structure in  dot-bracket form, 
-(c) number of structures required (n), and
-(d) whether all-atom construction is required accordingly.
+## According to corresponding instructions from FebRNA, please input :
+- (a) sequence information, 
+- (b) secondary structure in  dot-bracket form, 
+- (c) number of structures required (n), and
+- (d) whether all-atom construction is required accordingly.
  
-### Wait for a while (usually within several minutes) to obtain the results.
-(a) The results are placed in the './RESULT'; 
-(b) './RESULT/CG_Result' contains all the predicted coarse-grained conformations;
-(c) './RESULT/Select_Result' contains a selection of TOP-n coarse-grained conformations;
-(d) './RESULT/AA_Result' contains the rebuilt all-atom structures of selected coarse-grained structures.
+## Wait for a while (usually within several minutes) to obtain the results.
+- (a) The results are placed in the './RESULT'; 
+- (b) './RESULT/CG_Result' contains all the predicted coarse-grained conformations;
+- (c) './RESULT/Select_Result' contains a selection of TOP-n coarse-grained conformations;
+- (d) './RESULT/AA_Result' contains the rebuilt all-atom structures of selected coarse-grained structures.
 
 An example is:
 
